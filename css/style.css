@@ -1,0 +1,42 @@
+:root {
+    --faint-green: #eafaf1;
+    --green-navs: #00ad6a
+  }
+  
+
+
+.nav-menu-items ul li a {
+    color: var(--green-navs);
+    text-decoration: none;
+}
+
+nav, .heading-product-info, .product-pricing , .container-fluid{
+    background-color: var(--faint-green);
+}
+
+.product-recommended-plan .features-info {
+    margin: 0.7rem;
+}
+
+.product-extra-features .features-info {
+    margin: 0.7rem;
+}
+.testimonial .profile-image img {
+    width: 75px;
+}
+
+
+footer {
+    background-color: #080c16;
+}
+
+footer .footer-navigations ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+footer .footer-navigations ul li {
+    margin: 0.7rem 0;
+}
