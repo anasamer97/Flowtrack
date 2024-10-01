@@ -1,3 +1,4 @@
-## Flowtrack is a responisve (Laptop & Smartphone) landing page developed using Bootstap 5.
+Flowtrack is a responisve (Laptop & Smartphone) landing page developed using Bootstap 5.
 
-Demo: anasamer97.github.io/Flowtrack/
+Demo:
+anasamer97.github.io/Flowtrack/
