@@ -1,1 +1,1 @@
-Flowtrack is a responisve (Lapotp & Smartphone) landing page developed using Bootstap 5.
+Flowtrack is a responisve (Laptop & Smartphone) landing page developed using Bootstap 5.
